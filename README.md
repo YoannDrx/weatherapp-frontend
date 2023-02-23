@@ -44,7 +44,7 @@ yarn install
 
 ## 🚀 Deploy 
 
-⇒ 
+⇒ https://weatherapp-frontend-smoky.vercel.app/index.html
 
 Vercel : [https://vercel.com/](https://vercel.com/)
 
